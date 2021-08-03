@@ -1,0 +1,5 @@
+johns -> request connection -> Rishan
+johns <- public key <- Rishan
+johns ->(johns secret key) encrypt using rishan public key -> Rishan
+
+
